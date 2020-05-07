@@ -1,0 +1,15 @@
+{
+  "name": "hasans-calculator",
+  "version": "0.0.1",
+  "description": "hesaplamayı kolaylastıran uygulama",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hesap",
+    "calculator"
+  ],
+  "author": "hasansevindik1284@gmail.com",
+  "license": "MIT"
+}
